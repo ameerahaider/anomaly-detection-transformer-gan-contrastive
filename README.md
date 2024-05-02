@@ -4,7 +4,7 @@ This repository contains a PyTorch implementation of a Transformer Autoencoder c
 
 ## Contents
 
-- `transformer_autoencoder_gan_contrastive.ipynb`: Jupyter Notebook containing the implementation.
+- `transformer_autoencoder_gan_contrastive.py`: Jupyter Notebook containing the implementation.
 - `README.md`: This README file providing an overview of the project.
 
 ## Dependencies
@@ -19,7 +19,7 @@ This repository contains a PyTorch implementation of a Transformer Autoencoder c
 1. Clone this repository:
 
 ```
-git clone https://github.com/your_username/transformer-autoencoder-gan-contrastive.git
+git clone https://github.com/ameerahaider/transformer-autoencoder-gan-contrastive.git
 ```
 
 2. Install the required dependencies using pip:
@@ -28,7 +28,7 @@ git clone https://github.com/your_username/transformer-autoencoder-gan-contrasti
 pip install torch pandas matplotlib
 ```
 
-3. Open and run the `transformer_autoencoder_gan_contrastive.ipynb` notebook using Jupyter or any compatible environment.
+3. Open and run the `transformer_autoencoder_gan_contrastive.py` notebook using Jupyter or any compatible environment.
 
 ## Overview
 
